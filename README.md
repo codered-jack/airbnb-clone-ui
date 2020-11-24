@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Deployed At : https://spotify-clone-2ec2f.web.app
+# Deployed At : https://airbnb-clone-cf3ea.web.app
 
 ## Available Scripts
 
